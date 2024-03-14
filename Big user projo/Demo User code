@@ -1,5 +1,5 @@
-[2/23 12:03 PM] Brad Meadows
-Here is the code for creating demo users if you have trouble finding it in that github.
+#This is my big long term project to build a "demo" user group in a lab enviroment. The script is pulled from GitHub Microsoft/MCW-Hybrid-identity 
+#I'm collaberating with my microsoft tech mentor to complete.
  
 # %ForceElevation% = Yes
 
